@@ -6,6 +6,5 @@
 - Conducted hands-on training sessions for staff on the new system, facilitating quick adoption and streaming daily operations.
 ## Programming languages ​​used
 - Designed and developed an integrated management system for the hospital, utilizing   
-      modern programming and database technologies including [specific programming 
-      languages/tools, e.g. SQL Server Management System , C#]
+      modern programming and database technologies including [specific programming languages/tools, e.g. SQL Server Management System , C#]
 
